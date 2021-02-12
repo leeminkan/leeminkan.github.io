@@ -8,16 +8,16 @@ theme: jekyll-theme-chirpy
 baseurl: ''
 
 # the HTML language tag › https://www.w3.org/International/questions/qa-choosing-language-tags
-lang: en-US
+lang: vi-VN
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Ho_Chi_Minh
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Kan                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Hi! Mình chỉ là một chàng trai IT =))   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -25,25 +25,25 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://leeminkan.github.io'
 
-author: your_full_name                  # change to your full name
+author: Lee Min Kan                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: leeminkan             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+facebook:
+  username: leeminkan1998            # change to your facebook username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Nguyen Hoang Phuc                  # it will shows as the copyright owner in Footer
+  email: nguyenhoangphuc.kan@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/leeminkan       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/leeminkan1998
     # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
