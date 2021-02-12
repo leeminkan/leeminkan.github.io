@@ -1,11 +1,10 @@
 ---
-title: My Planning For 2021
+title: Mục tiêu cho năm 2021
 author: Kan LeeMin
 date: 2021-02-12 18:13:00 +0700
 categories: [My Life]
-tags: [planning]
-math: true
-mermaid: true
+tags: [mục tiêu]
+pin: [true]
 ---
 
 Phía dưới là một vài thứ phải hoàn thành trong năm 2021, sẽ được cập nhật thường xuyên
