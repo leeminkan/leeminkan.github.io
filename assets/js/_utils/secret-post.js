@@ -18,6 +18,7 @@ $(function () {
         if (key === "key") {
             $(".blur-post").hide();
             $(".secret-form").hide();
+            $("#secret-post-shuffled").hide();
             $("#secret-post").removeClass("hide-before-authen");
         } else {
             alert("Không chính xác!");
