@@ -3,7 +3,8 @@ title: Chuyến đi cần thơ không có trong kế hoạch
 author: Kan LeeMin
 date: 2020-01-19 18:13:00 +0700
 categories: [My Life, Diary]
-tags: [tết, cần thơ]
+tags: [tết, cần thơ, secret]
+layout: secret-post
 ---
 
 Sau cái hôm vừa xuống xe đã vào bàn ấy, tối hắn nằm trằn trọc đến tận sáng mới ngủ được. Sức hắn 1 lon đã ngã, mà hắn cố quá thành ra quá cố. Phải ngậm 1 viên panadol rồi mới ngủ thoãi mái, thế là nằm đến xế chiều hôm sau luôn.
