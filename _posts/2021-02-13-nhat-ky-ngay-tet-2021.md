@@ -5,7 +5,7 @@ date: 2021-02-13 23:13:00 +0700
 categories: [My Life, Diary]
 tags: [tết]
 ---
-# Ngày 12/2/2021 - Mùng 1
+## Ngày 12/2/2021 - Mùng 1
 
 Sáng rảnh chả biết làm gì, nhắn nhẹ bạn thành làm ván bida. 10h, quán Yến Ngọc, tôi với nó chơi 3 ván thì tôi thắng 2, điều này làm tâm trạng tôi khá vui.
 
@@ -15,7 +15,7 @@ Lúc về có chạy ngang nhà My, My bảo tối xuống lì xì cho. Nghe có
 
 Lát sau, tôi cũng có mặt tại nhà My. Tụi bạn đã ở đó tự khi nào, hôm nay tính sơ có tôi, Thiện, Sĩ, em thằng Sĩ - Thanh, Tiên, Lữ, Thành, Sang. Ngồi uống nước đánh bài hả hê, cuối buổi được bạn Thiện trả. Xui cho bạn ấy là chiếc ai phôn cầm không chắc, rớt nhẹ xuống cái cúp nguồn luôn.
 
-# Ngày 13/2/2021 - Mùng 2
+## Ngày 13/2/2021 - Mùng 2
 
 Buổi sáng thức dậy, nhận được một bức ảnh bầu trời đen kịch từ Sang trong nhóm chat, làm tôi cứ tưởng ngày hôm nay sẽ tẻ nhạt lắm, nhưng cũng không hẳn...
 
@@ -41,7 +41,7 @@ Dắt xe vô khóa, bật điện thoại lên thì hết hồn. Ủa, Nương k
 
 Hết đêm...
 
-# Ngày 14/2/2021 - Mùng 3
+## Ngày 14/2/2021 - Mùng 3
 
 Hôm nay với bạn là lễ tình nhân hay mùng 3 tết???
 
@@ -55,7 +55,7 @@ Tối về Sang phục thù kèo bida, thua nó chỉ bởi vì tâm trạng kh�
 
 Xong kèo này, Tịnh lại bảo ra trả kèo trà sữa. Thế là cả đám quẹo xuống quán Cherry tiếp, có tôi, sang, tịnh, sĩ, mặc dù đã tối khuya nhưng vì là quán của Dì Tố Nương nên cũng dễ. Khó chịu hỗm rày, tôi nói thẳng với thằng Sang mấy cái vấn đề để nó biết, có vẻ mọi chuyện ổn, nó hiểu. Cả đám ngồi đó tới hơn 10h30 rồi cũng ai về nhà nấy.
 
-# Ngày 15/2/2021 - Mùng 4
+## Ngày 15/2/2021 - Mùng 4
 
 Hôm nay mấy đứa trong nhóm đi chùa Hang, tôi thì lười chả muốn đi, đành vác lap xuống quán Cherry ngồi tiếp.
 
@@ -69,7 +69,7 @@ Chú Khanh, chú Pin, anh Luân kế bên nhà đang hát hò gì đấy, vừa 
 
 Tối đó, chả còn mấy đứa nhưng để chia tay bạn Tiên nên cả đám kéo lên nhà Sang gồm tôi, thiện, my, lữ, tịnh. Nướng thịt ngoài đường và chill với những cốc bia, rượu chuối. Lúc tiệc tàn, khi My và Tiên đã về thì thằng Sĩ mới từ Châu Đốc chạy về, có vẻ đây là một đêm hẹn hò lãng mạn của bạn ấy.
 
-# Ngày 16/2/2021 - Mùng 5
+## Ngày 16/2/2021 - Mùng 5
 
 Sáng sớm trong group đã khá nhộn nhịp, My có vẻ giận khi bị chúng tôi gán ghép.
 
@@ -81,6 +81,6 @@ Tối đó tính làm thêm ván bida với Sang mà không có bàn, nên rủ 
 
 Cũng trong quán đó, tôi có gặp Trung Hảo, qua chào hỏi được một chút thì biết sau khi nghỉ việc ở VNPT An Giang và cái công ty nào đó ở Q1, thì nó chuẩn bị lên lại Sài Gòn, qua quận 2 học React Native ở Trung Tâm Khoa Phạm. Ngồi tí rồi cũng về, bạn Loan để lại cho tôi chầu nước, tưởng chưa trả - nhưng thật ra là trả rồi, hơi rối.
 
-# Ngày 17/2/2021 - Mùng 6
+## Ngày 17/2/2021 - Mùng 6
 
 Hết tết - lên xe về Sài Gòn, nhờ bạn Vũ ra rước và tối đó qua bên nó ngồi nói chuyện, chém gió.
