@@ -77,7 +77,9 @@ Tầm trưa, chán quá nên tôi xách lap xuống quán Cherry nữa. Tính t�
 
 Chạy chiếc xe, đậu trước nhà Sĩ, tôi với Sang ngồi nhìn mấy linh kiện máy móc một chút thì gặp Tiên, vui vì được chào bạn để tạm biệt cái tết này.
 
-Tối đó tính làm thêm ván bida với Sang mà không có bàn, nên rủ thêm Sĩ - 3 thằng tìm quán cafe nào đó ngồi uống. Sẵn tiện Loan đang ở quán BBF xéo xéo trường THPT Hòa Lạc, bọn tôi chạy sang luôn. Ngồi đó có tôi, Sĩ , Sang, Loan, Cẩm Tiên, em gái Cẩm Tiên. Cũng trong quán đó, tôi có gặp Trung Hảo, qua chào hỏi được một chút thì biết sau khi nghỉ việc ở VNPT An Giang và cái công ty nào đó ở Q1, thì nó chuẩn bị lên lại Sài Gòn, qua quận 2 học React Native ở Trung Tâm Khoa Phạm. Ngồi tí rồi cũng về, bạn Loan để lại cho tôi chầu nước, tưởng chưa trả - nhưng thật ra là trả rồi, hơi rối.
+Tối đó tính làm thêm ván bida với Sang mà không có bàn, nên rủ thêm Sĩ - 3 thằng tìm quán cafe nào đó ngồi uống. Sẵn tiện Loan đang ở quán BBF xéo xéo trường THPT Hòa Lạc, bọn tôi chạy sang luôn. Lúc đầu 3 đứa ngồi riêng ngoài trước, nhận được Video Call của Thành, nó với thằng bạn nó (nghe bảo tên Sang) đang ngồi ăn uống với Tiên, trông có vẻ khá vui. Một lát sau bọn tôi vào hội với Loan, Cẩm Tiên, em gái Cẩm Tiên. Ngồi hỏi thăm thì biết Loan làm ở Đại học Cần Thơ, Tiên làm ở Châu Đốc. 
+
+Cũng trong quán đó, tôi có gặp Trung Hảo, qua chào hỏi được một chút thì biết sau khi nghỉ việc ở VNPT An Giang và cái công ty nào đó ở Q1, thì nó chuẩn bị lên lại Sài Gòn, qua quận 2 học React Native ở Trung Tâm Khoa Phạm. Ngồi tí rồi cũng về, bạn Loan để lại cho tôi chầu nước, tưởng chưa trả - nhưng thật ra là trả rồi, hơi rối.
 
 # Ngày 17/2/2021 - Mùng 6
 
